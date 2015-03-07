@@ -1,0 +1,6 @@
+.idea
+model.iml
+target
+*.jar
+*.zip
+*.log
